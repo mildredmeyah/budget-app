@@ -4,7 +4,7 @@
 
 }
 body{
-  background-color: blueviolet;
+  background-color: aliceblue;
   font-family: 'Courier New', Courier, monospace;
 
 }
@@ -12,6 +12,9 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   height: 800px;
+  width: 700px;
+  
 
 }

@@ -1,0 +1,37 @@
+*{
+    
+    margin: 0;
+
+
+}
+h1{
+    color:plum;background-color: aqua;
+}
+input{
+    height: 30px;
+    width: 100%;
+    border: none;
+    color: aqua;
+    background-color: lightpink;
+    
+  
+}
+.container{
+    align-items: center;
+    margin-left: 400px;
+}
+option{
+    background-color: pink;
+    color: aqua;
+}
+option :hover{
+    color: aqua;
+}
+
+button{
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+    background-color: aqua;
+}
+   
